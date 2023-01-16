@@ -1,0 +1,15 @@
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/bin/Debug/net6.0/Taskk5
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/bin/Debug/net6.0/Taskk5.deps.json
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/bin/Debug/net6.0/Taskk5.runtimeconfig.json
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/bin/Debug/net6.0/Taskk5.dll
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/bin/Debug/net6.0/Taskk5.pdb
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/Taskk5.csproj.AssemblyReference.cache
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/Taskk5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/Taskk5.AssemblyInfoInputs.cache
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/Taskk5.AssemblyInfo.cs
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/Taskk5.csproj.CoreCompileInputs.cache
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/Taskk5.dll
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/refint/Taskk5.dll
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/Taskk5.pdb
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/Taskk5.genruntimeconfig.cache
+/Users/nikolaysidorov/Desktop/HomeWork1Seminar/Taskk5/obj/Debug/net6.0/ref/Taskk5.dll
